@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Soundscape Alexis Genna_data" version="1.3.0" audacityversion="2.4.2" sel0="25.6618694369" sel1="25.6618694369" vpos="752" h="15.3062408570" zoom="41.8130098682" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="Software" value="Sony Sound Forge 9.0"/>
+		<tag name="YEAR" value="2012-09-12"/>
+		<tag name="TITLE" value="Good morning let’s get started "/>
+	</tags>
+	<wavetrack name="444154__caileykehoe__alarm-sound" isSelected="0" height="110" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="3.162278" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="460651">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f3f1.au" len="223756" min="-0.035205" max="0.042879" rms="0.007168"/>
+				</waveblock>
+				<waveblock start="223756">
+					<simpleblockfile filename="eff1f7af.au" len="236895" min="-0.022648" max="0.030668" rms="0.004452"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="444154__caileykehoe__alarm-sound" isSelected="0" height="110" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="3.162278" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="460651">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fa09.au" len="223756" min="-0.025787" max="0.023625" rms="0.00597"/>
+				</waveblock>
+				<waveblock start="223756">
+					<simpleblockfile filename="eff1f2ea.au" len="236895" min="-0.018014" max="0.012913" rms="0.003543"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Ice clank" isSelected="0" height="170" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="0.079433" pan="0.0" colorindex="0">
+		<waveclip offset="9.59689583" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="90112">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f745.au" len="90112" min="-0.98727" max="0.954972" rms="0.124909"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Water pour" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="0.070795" pan="0.0" colorindex="0">
+		<waveclip offset="11.04495833" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="70725">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fd15.au" len="70725" min="-0.858005" max="0.850344" rms="0.039562"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Stir coffee" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="0.158489" pan="0.0" colorindex="0">
+		<waveclip offset="12.05607116" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="80806">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f7f8.au" len="80806" min="-0.947049" max="0.869285" rms="0.044408"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Typing 2" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="13.73952949" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="144311">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f95a.au" len="144311" min="-0.116409" max="0.125572" rms="0.008472"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Good morning let’s get started" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="16.74600866" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="331532">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f667.au" len="245516" min="-0.410622" max="0.41315" rms="0.032877"/>
+				</waveblock>
+				<waveblock start="245516">
+					<simpleblockfile filename="eff1f3ce.au" len="86016" min="-0.134734" max="0.13148" rms="0.026694"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="165181__theonlypkmnmaster__step-sound" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="23.65292517" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="88594">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fe75.au" len="88594" min="-0.241229" max="0.2526" rms="0.016519"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="165181__theonlypkmnmaster__step-sound" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="23.65292517" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="88594">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f389.au" len="88594" min="-0.241256" max="0.252585" rms="0.016519"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
